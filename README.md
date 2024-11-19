@@ -1,5 +1,5 @@
 
-## Business Insights [Project Link](https://app.powerbi.com/groups/0f7c26c7-b283-4079-a9bb-b8cc4deb9dc2/reports/f54b527b-fac6-46a6-b0a9-f30d355576c3/ReportSection5e078c165ac2a4468c45)
+## Business Insights [Project Link](https://app.powerbi.com/view?r=eyJrIjoiNDg0ZWFlYjUtNWNhOC00MDdiLWI1MTItZmJhYjY3OWExNDVmIiwidCI6IjNiZTBhZmI3LTc0MmYtNDk4ZC1hZDY0LWY1NjFkN2IyZWQwNiJ9)
 ## Data Analysis using Power BI
 
 ## Problem Statement
